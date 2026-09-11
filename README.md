@@ -76,9 +76,9 @@ pip install pandas numpy requests matplotlib scikit-learn torch jupyter
 
 ## Paper
 
-[`Comparative Machine Learning for Electricity Demand Forecasting: Evidence from CAISO.docx`](./Comparative_Machine_Learning_for_Electricity_Demand_Forecasting:_Evidence_from_CAISO.docx)
+[`Lalith_Ahan_CIGRE_TeenSession_Paper1.pdf`](./Lalith_Ahan_CIGRE_TeenSession_Paper1.pdf)
 
-[`Why Forecasting Models Behave Differently for Electricity Demand and Renewable Generation.docx`](./Why_Forecasting_Models_Behave_Differently_for_Electricity_Demand_and_Renewable_Generation.docx)
+[`Lalith_Ahan_CIGRE_TeenSession_Paper2.pdf`](./Lalith_Ahan_CIGRE_TeenSession_Paper2.pdf)
 
 ## Authors
 
